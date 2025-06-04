@@ -1,7 +1,7 @@
 # XJTLU-SURF-0259-SeePhy
 
 <p align="center">
-  <a href="https://github.com/BRMRs/XJTLU-SURF-0259-SeePhy/main/README_zh-CN.md">简体中文</a>
+  <a href="README_zh-CN.md">简体中文</a>
   ｜
   English
 </p>
