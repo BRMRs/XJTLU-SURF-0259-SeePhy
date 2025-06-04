@@ -13,7 +13,6 @@
 4. [Commit Message Guidelines](#commit-message-guidelines)
 5. [Project Structure](#project-structure)
 6. [Contributing](#contributing)
-7. [Contact Information](#contact-information)
 
 
 ## Introduction
